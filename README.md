@@ -42,3 +42,5 @@ print pro_cost
 ## License
 
 see `LICENSE`
+
+Amezing Program
